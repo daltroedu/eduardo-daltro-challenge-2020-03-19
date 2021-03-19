@@ -6,7 +6,7 @@ Solution developed with Python 3, making it possible to obtain the exception tim
 
 The argument `[Python version]` specifies the version of Python used by the respective code, being either `2` or` 3`, preventing any code from being executed by only one of the two versions, an action that could cause possible incompatibilities.
 
-## Example:
+### Example:
 
 - `cd problem_1`
 
@@ -24,11 +24,11 @@ The argument `[Python version]` specifies the version of Python used by the resp
 
 Solution developed using Postgres.
 
-## Question A
+### Question A
 
 They contain tables and relationships.
 
-## Question B
+### Question B
 
 Query based on `data_load.sql`, which returns products from the catalog that the buyer is part of and products from other catalogs that have` default` visibility.
 
