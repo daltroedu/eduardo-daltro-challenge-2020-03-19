@@ -26,7 +26,7 @@ Solution developed using Postgres 12.
 
 ### Question A
 
-They contain tables and relationships.
+Contains tables and relationships.
 
 ![diagram-er](problem_2/diagram-er.png)
 
