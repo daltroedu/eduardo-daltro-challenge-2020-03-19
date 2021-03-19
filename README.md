@@ -28,6 +28,8 @@ Solution developed using Postgres 12.
 
 They contain tables and relationships.
 
+![diagram-er](problem_2/diagram-er.png)
+
 ### Question B
 
 Query based on `data_load.sql`, which returns products from the catalog that the buyer is part of and products from other catalogs that have` default` visibility.
