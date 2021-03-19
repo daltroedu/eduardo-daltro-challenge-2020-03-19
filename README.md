@@ -22,7 +22,7 @@ The argument `[Python version]` specifies the version of Python used by the resp
 
 # Problem 2
 
-Solution developed using Postgres.
+Solution developed using Postgres 12.
 
 ### Question A
 
