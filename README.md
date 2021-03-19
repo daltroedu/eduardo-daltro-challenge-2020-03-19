@@ -1,6 +1,6 @@
 # Problem 1
 
-Solution developed with Python 3, making it possible to obtain the exception time of several Python codes in just one instruction:
+Solution developed in Python 3, making it possible to obtain the execution time of several Python codes in just one instruction:
 
 `python3 -m timer.run [code_1.py] [Python version] [code_2.py] [Python version] [...]`
 
