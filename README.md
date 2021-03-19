@@ -44,4 +44,4 @@ Output:
 | James | Porsche       |  500000.00 |1           |1                      |
 | James | Mercedez Benz |  300000.00 |1           |1                      |
 | James | Honda         |   30000.00 |2           |1                      |
-| James | Yamaha        |  250000.00 |2           |1                      |
+| James | Yamaha        |   25000.00 |2           |1                      |
